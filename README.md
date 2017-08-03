@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome to the SECOHealth website!
 
-You can use the [editor on GitHub](https://github.com/secohealth/secohealth.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the official website of the Québec-Wallonie collaborative research project "Towards an interdisciplinary, socio-technical methodology and analysis of the health of software ecosystems", which involves research teams of Polytechnique Montreal (Canada), the University of Mons (Belgium) and the University of Laval (Canada), supported by collaborators at Toulouse University (France) and Politecnico di Milano (Italy).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In short, this project aims to understand and control the health of software ecosystems, where software ecosystems are interpreted as ecological ecosystems comprised of a population of living organisms (software projects and their communities of contributors). The goal is to (1) define a conceptual model of ecosystem health, then (2) determine health indicators capable of measuring the different aspects of such health, as well as determine events that affect the health of ecosystems; and (3) empirically validate these health indicators and events.
 
-### Markdown
+Stay tuned for more information!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Core Team
 
-```markdown
-Syntax highlighted code block
+[<img src="http://mcis.polymtl.ca/images/me2.jpg" alt="Bram Adams" width="100">](http://mcis.polymtl.ca) 
+*Bram Adams, Polytechnique Montreal*
 
-# Header 1
-## Header 2
-### Header 3
+[<img src="http://informatique.umons.ac.be/perso/Mens.Tom/images/tommens.jpg" alt="Bram Adams" width="100">](http://informatique.umons.ac.be/perso/Mens.Tom/)
+*Tom Mens, University of Mons*
 
-- Bulleted
-- List
+[<img src="http://www4.fsa.ulaval.ca/wp-content/uploads/2015/06/josianne-marsan.jpg" alt="Bram Adams" width="100">](http://www4.fsa.ulaval.ca/enseignants/josianne-marsan/) 
+*Josianne Marsan, University of Laval*
 
-1. Numbered
-2. List
+### Collaborators
 
-**Bold** and _Italic_ and `Code` text
+[<img src="http://www.tbs-education.fr/sites/default/files/styles/w220h220/public/professeur/k.carilloen.jpg?itok=EnQNKfqR" alt="Bram Adams" width="100">](http://www.tbs-education.fr/en/faculty-research/faculty/resident-and-affiliated-faculty-members/carillo-kevin)
+*Kevin Carillo, Toulouse University*
 
-[Link](url) and ![Image](src)
-```
+[<img src="https://scholar.google.ca/citations?view_op=medium_photo&user=l7BGAq8AAAAJ&citpid=3" alt="Bram Adams" width="100">](https://scholar.google.ca/citations?user=l7BGAq8AAAAJ&hl=en) 
+*Damian Tamburri, Politecnico di Milano*
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/secohealth/secohealth.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
