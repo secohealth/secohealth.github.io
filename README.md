@@ -1,8 +1,8 @@
 ## Welcome to the SECOHealth website!
 
-This is the official website of the Québec-Wallonie collaborative research project "Towards an interdisciplinary, socio-technical methodology and analysis of the health of software ecosystems", which involves research teams of Polytechnique Montreal (Canada), the University of Mons (Belgium) and the University of Laval (Canada), supported by collaborators at Toulouse University (France) and Politecnico di Milano (Italy).
+This is the official website of the FNRS-FRQ Québec-Wallonie collaborative research project "Towards an interdisciplinary, socio-technical methodology and analysis of the health of software ecosystems", which involves research teams of Polytechnique Montreal (Canada), the University of Mons (Belgium) and the University of Laval (Canada), supported by collaborators at Toulouse University (France) and Politecnico di Milano (Italy).
 
-In short, this project aims to understand and control the health of software ecosystems, where software ecosystems are interpreted as ecological ecosystems comprised of a population of living organisms (software projects and their communities of contributors). The goal is to (1) define a conceptual model of ecosystem health, then (2) determine health indicators capable of measuring the different aspects of such health, as well as determine events that affect the health of ecosystems; and (3) empirically validate these health indicators and events.
+In short, this project aims to **understand and control the health of software ecosystems**, where software ecosystems are interpreted as ecological ecosystems comprised of a population of living organisms (software projects and their communities of contributors). The goal is to (1) define a conceptual model of ecosystem health, then (2) determine health indicators capable of measuring the different aspects of such health, as well as determine events that affect the health of ecosystems; and (3) empirically validate these health indicators and events.
 
 Stay tuned for more information!
 
