@@ -121,7 +121,7 @@ ul.social-icons {
     background-color: #322f30;
 }
 .fa-github:hover {
-    background-color: #0073a4;
+    background-color: #333;
 }
 .fa-google-plus {
     padding:10px 9px;
@@ -134,4 +134,16 @@ ul.social-icons {
 }
 .fa-google-plus:hover {
     background-color: #e25714;
+}
+.fa-envelope {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+.fa-envelope:hover {
+    background-color: #359aff;
 }
