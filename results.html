@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	<title>Official website of secohealth project</title>
+	<meta charset="utf-8">
+	<meta name = "format-detection" content = "telephone=no" />
+	<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+	<link rel="stylesheet" href="css/grid.css">
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/camera.css">
+	<link rel="stylesheet" href="css/owl.carousel.css">
+	<link rel="stylesheet" href="css/social.css">
+	<link rel="stylesheet" href="css/bib-publication-list.css" type="text/css" />
+
+	<script src="js/jquery.js"></script>
+	<script src="js/jquery-migrate-1.2.1.js"></script>
+	<script src='js/camera.js'></script>
+	<script src="js/owl.carousel.js"></script>
+	<script src="js/jquery.stellar.js"></script>
+	<script src="js/script.js"></script>
+	<!--[if (gt IE 9)|!(IE)]><!-->
+	<script src="js/jquery.mobile.customized.min.js"></script>
+	<script src="js/wow.js"></script>
+	<script src="js/jquery.min.js"></script>
+<script src="js/bib-list-min.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			if ($('html').hasClass('desktop')) {
+				new WOW().init();
+			}
+		});
+	</script>
+	<!--<![endif]-->
+	<!--[if lt IE 8]>
+	<div style=' clear: both; text-align:center; position: relative;'>
+	 <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
+		 <img src="images/ie8-panel/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />
+	 </a>
+	</div>
+	<![endif]-->
+	<!--[if lt IE 9]>
+		<script src="js/html5shiv.js"></script>
+		<link rel="stylesheet" type="text/css" media="screen" href="css/ie.css">
+	<![endif]-->
+	</head>
+<body class="index">
+<!--==============================header=================================-->
+<header id="header">
+	<div id="stuck_container">
+		<div class="container">
+			<div class="row">
+				<div class="grid_12">
+					<!--<h1><a href="index.html">SECOhealth</a></h1>-->
+					<h1><a href="index.html"><img src="images/logo3_secohealth-blue_small.png"></a></h1>
+					<nav>
+						<ul class="sf-menu">
+							<li><a href="index.html">Home</a></li>
+							<li><a href="overview.html">Overview</a></li>
+							<li><a href="news.html">News</a></li>
+							<li><a href="members.html">Members</a></li>
+							<li class="current"><a href="results.html">Results</a></li>
+							<li><a href="links.html">Links</a></li>
+							<li><a href="contact.html">Contact</a></li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
+
+<!--=======content================================-->
+
+<section id="content">
+	<div class="full-width-container block-2">
+		<div class="container">
+			<div class="row">
+						<h2>Publications</h2>
+
+					<noscript>
+  <style>
+  #bibtex { display: block; }
+  </style>
+</noscript>
+
+					<table id="pubTable" class="display"></table>
+					<pre id="bibtex" style="display:none;">
+						@article{Constantinou:Mens:ISSE:2017,
+					   title = {An Empirical Comparison of Developer Retention in the RubyGems and npm Software Ecosystems},
+					   journal = {Innovations in Systems and Software Engineering},
+					   volume = {13},
+					   number = {2},
+					   pages = {101-115},
+					   year = {2017},
+						 issn="1614-5054",
+						 doi="10.1007/s11334-017-0303-4",
+						 url="https://doi.org/10.1007/s11334-017-0303-4",
+					   author = {Eleni Constantinou and Tom Mens}
+					}
+				}
+
+					</pre>
+					<style>@import url('//villekaravirta.com/s/bib-publication-list.css');</style>
+					<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+					<script type="text/javascript" src="//villekaravirta.com/s/bib-list.js"></script>
+					<script type="text/javascript">
+ var init = function() {
+   bibtexify("#bibtex", "pubTable", {});
+ };
+ if (window.addEventListener) {
+   window.addEventListener('load', init, false);
+ } else if (window.attachEvent) {
+   window.attachEvent('onload', init);
+ }
+</script>
+<script>
+jQuery("#pubTable").on("click", "a", function(e) {
+  var $n = jQuery(this),
+      text = $n.text().toUpperCase();
+  if (text === "X") { return; }
+  try {
+    _gaq.push(['_trackEvent', "PublicationAction", text]);
+} catch(err){ }
+  if ($n.attr("href") !== "#") {
+    setTimeout(function() {
+      document.location.href = $n.attr("href");
+    }, 100);
+    return false;
+  }
+});
+</script>
+				</div>
+		</div>
+	</div>
+
+</section>
+
+<!--=======footer=================================-->
+<footer id="footer">
+	<div class="container">
+		<div class="row">
+			<div class="grid_12 copyright">
+				<pre>© <span id="copyright-year"></span> |  SECOhealth project partners</pre>
+			</div>
+		</div>
+	</div>
+</footer>
+
+</body>
+</html>
