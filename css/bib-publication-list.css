@@ -1,4 +1,4 @@
-span.undefined { color:red; }
+§span.undefined { color:red; }
 .bibtable {width:100%; margin: 0 auto; clear: both;}
 .bibchart { width: 100%; height: 100px; margin-bottom: 20px;}
 .clear {clear:both;}
@@ -6,10 +6,12 @@ span.undefined { color:red; }
 .yearlabel { position: absolute; bottom: -20px; text-align: center; width: 100%; font-size: smaller;}
 .pub { border: 1px solid white; background-color: #eee; }
 .inproceedings { background-color: #ff6600; }
-.article { background-color: #0000ff; }
+.article { background-color: #3434bc; }
 .inbook { background-color: #eaa; }
 .phdthesis { background-color: #999; }
 .unpublished { background-color: #eae; }
+.phdthesis { background-color: #999; }
+.misc { background-color: #aea3ba; }
 .mastersthesis { background-color: #eea; }
 .techreport { background-color: #00cc00; }
 .proceedings { background-color: #9494ff; }
@@ -26,8 +28,8 @@ table.display { margin-top: 24px; }
 .sorting { background: url('images/sort_both.png') no-repeat center right; }
 .sorting_asc_disabled { background: url('images/sort_asc_disabled.png') no-repeat center right; }
 .sorting_desc_disabled { background: url('images/sort_desc_disabled.png') no-repeat center right; }
-tr.odd { background-color: #eee; }
-tr.even { background-color: white; }
+tr.odd { background-color: #bdbbbf; }
+tr.even { background-color: #bdbbbf; }
 div.hidden { display: none;}
 div.bibinfo { width: 80%; position: fixed; top: 100px; left: 10%; background-color: #bbb; border: 3px solid #fff; padding: 10px; -moz-border-radius:10px; -webkit-border-radius:10px; -o-border-radius:10px; border-radius:10px; z-index: 50;}
 #shutter { background-color: #555; opacity: 0.7; width:100%; height: 100%; position: fixed; top: 0; left:0; z-index: 20;}
