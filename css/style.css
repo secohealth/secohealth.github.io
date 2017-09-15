@@ -28,7 +28,8 @@ a[href^="tel:"] {
 h2 a,
 h3 a,
 h4 a,
-h5 a {
+h5 a,
+p a {
   color: inherit;
   font: inherit;
 }
@@ -126,7 +127,7 @@ h5 a:hover {
   padding-right: 0;
 }
 .sf-menu > li.current > a {
-  color: #ffffff;
+  color: #000000;
 }
 .sf-menu > li.current > a:after {
   content: "";
