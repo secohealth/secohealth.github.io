@@ -1,0 +1,14 @@
+language: python
+python: 3.5
+install:
+ - pip install -r requirements.txt
+script:
+ - python genja.py
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: output/
+  target_branch: test
+  on:
+    branch: sources

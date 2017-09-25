@@ -1,0 +1,16 @@
+{% extends "_base.html" %}
+
+{% block layout %}
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-7 col-md-offset-1">
+      {% block body %}
+      {% endblock %}
+    </div>
+    <div class="col-md-3">
+      {% block sidebar %}
+      {% endblock %}
+    </div>
+  </div>
+</div>
+{% endblock %}

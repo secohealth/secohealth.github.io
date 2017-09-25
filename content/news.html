@@ -1,0 +1,22 @@
+{% extends "_onecol.html" %}
+
+{% block title %}Members{% endblock %}
+
+{% block body %}
+<h2>News</h2>
+
+{% from "_news.html" import news %}
+{% for item in news %}
+  <a name="n{{ news|length - loop.index }}"></a>
+  <h4>{{ item.title }} <span class="small">{{ (item.date|parse_date).strftime('%A, %B %d, %Y') }}</span></h4>
+  <p>
+    {{ item.summary }}
+    {% if item.content %}
+      <p>
+        {{ item.content }}
+      </p>
+    {% endif %}
+  </p>
+{% endfor %}
+
+{% endblock %}

@@ -1,0 +1,31 @@
+{% extends "_onecol.html" %}
+
+{% block title %}Results{% endblock %}
+
+{% block body %}
+<h2>Publications</h2>
+
+
+{% from "_biblio.html" import biblio %}
+
+{% set year_last = 0 %}
+{% set kind_last = 0 %}
+{% for item in biblio %}
+  {% if year_last != item.year %}
+    {% set year_last = item.year %}
+    {% set kind_last = 0 %}
+    <h3>{{ item.year }}</h3>
+  {% endif %}
+  {% if kind_last != item.kind %}
+    <h4>{{ item.kind }}</h4>
+  {% endif %}
+  <p>
+    <strong>{{ item.title }}</strong><br />
+    {{ item.authors }}
+    {% if item.published %}<br />{{ item.published }}{% endif %}
+    {% if item.misc %}<br />{{ item.misc }}{% endif %}
+    {% if item.link %}<br /><a href="{{ item.link }}">{{ item.link }}</a>{% endif %}
+  </p>
+{% endfor %}
+
+{% endblock %}
