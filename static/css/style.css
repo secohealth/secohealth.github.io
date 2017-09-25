@@ -23,6 +23,9 @@ footer {
 .member-picture {
   max-width: 8em;
   max-height: 8em;
+}
+
+.member-picture.pull-left {
   margin-right: 1em;
 }
 
