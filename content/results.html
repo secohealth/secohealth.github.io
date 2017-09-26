@@ -6,17 +6,18 @@
 <h2>Publications</h2>
 
 
-{% from "_biblio.html" import biblio %}
+{% set biblio = load_yaml('biblio.yaml') %}
 
-{% set year_last = 0 %}
-{% set kind_last = 0 %}
-{% for item in biblio %}
-  {% if year_last != item.year %}
-    {% set year_last = item.year %}
-    {% set kind_last = 0 %}
-    <h3>{{ item.year }}</h3>
+{% set last = {'year': -1, 'kind': None} %}
+
+{% for item in biblio|sort(reverse=True, attribute='year') %}
+  {% if last['year'] != item.year %}
+    <h3>{{ item.year }} {{ year_last }}</h3>
+    {# Ugly hack but it works #}
+    {% if last.update({'year': item.year, 'kind': None}) %}{% endif %}
   {% endif %}
-  {% if kind_last != item.kind %}
+  {% if last['kind'] != item.kind %}
+    {% if last.update({'kind': None}) %}{% endif %}
     <h4>{{ item.kind }}</h4>
   {% endif %}
   <p>

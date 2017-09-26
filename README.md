@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/secohealth/secohealth.github.io.svg?branch=sources)](https://travis-ci.org/secohealth/secohealth.github.io)
 
+Do **not** make modifications to the master branch!
 Feel free to make your modifications on this branch. 
 Any commit (that ends in a valid set of files) will automatically trigger the build and deployment of the website. 
 
