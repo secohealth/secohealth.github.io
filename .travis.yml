@@ -7,6 +7,6 @@ deploy:
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
   local_dir: output/
-  target_branch: test
+  target_branch: master
   on:
     branch: sources
