@@ -17,7 +17,7 @@
     {% if last.update({'year': item.year, 'kind': None}) %}{% endif %}
   {% endif %}
   {% if last['kind'] != item.kind %}
-    {% if last.update({'kind': None}) %}{% endif %}
+    {% if last.update({'kind': item.kind}) %}{% endif %}
     <h4>{{ item.kind }}</h4>
   {% endif %}
   <p>
