@@ -4,7 +4,7 @@
   year: 2017
   published': Innovations in Systems and Software Engineering, 13(2), pp. 101-115
   # "misc" key is optional
-  link: https://doi.org/10.1007/s11334-017-0303-4 
+  link: https://doi.org/10.1007/s11334-017-0303-4
 - title: Towards an interdisciplinary, socio-technical methodology and analysis of software ecosystem health
   authors: Bram Adams
   kind: Presentation
@@ -15,3 +15,8 @@
   kind: Presentation
   year: 2017
   link: https://www.slideshare.net/tommens/sociotechnical-empirical-comparison-of-software-package-ecosystems
+- title: Investigating developer retention in socio-technical software ecosystems
+  authors: Eleni Constantinou
+  kind: Presentation
+  year: 2017
+  link: https://www.slideshare.net/econst/investigating-developer-retention-in-sociotechnical-software-ecosystems
