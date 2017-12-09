@@ -13,7 +13,7 @@
   authors: Bram Adams
   kind: Presentation
   year: 2017
-  published: Inaugural event of 4 joint interdisciplinary research projects between Québec and Wallonia 
+  published: Inaugural event of 4 joint interdisciplinary research projects between Québec and Wallonia
   link: https://www.slideshare.net/BramAdams5/what-is-secohealth-about
 - title: Socio-Technical Empirical Comparison of Software Package Ecosystems
   authors: Tom Mens
@@ -27,3 +27,17 @@
   year: 2017
   published: "MADSESE: Madrilenian Seminar on Empirical Software Engineering (URJC, Madrid)"
   link: https://www.slideshare.net/econst/investigating-developer-retention-in-sociotechnical-software-ecosystems
+- title: Towards an interdisciplinary, socio-technical analysis of software ecosystem health
+  authors: Mens T., Adams B. & Marsan J.
+  kind: Presentation
+  year: 2017
+  published: "BENEVOL: BElgian-NEtherlands software eVOLution symposium (Antwerp)"
+  link: https://www.slideshare.net/tommens/sociotechnical-analysis-of-software-ecosystem-health
+  link: https://arxiv.org/abs/1711.04532
+- title: Automatic link extraction: The good, the bad and the ugly in software ecosystem mining
+  authors: Constantinou E. & Mens T.
+  kind: Presentation
+  year: 2017
+  published: "BENEVOL: BElgian-NEtherlands software eVOLution symposium (Antwerp)"
+  link: https://www.slideshare.net/econst/automatic-link-extraction-the-good-the-bad-and-the-ugly-in-software-ecosystem-mining
+  link: https://arxiv.org/abs/1711.06908
