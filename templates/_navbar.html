@@ -2,7 +2,7 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-10 col-md-offset-1">
-      
+
         <div class="navbar-header navbar-left">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false">
             <span class="sr-only">Toggle navigation</span>
@@ -20,12 +20,13 @@
             <li{% if page == 'index.html' %} class="active"{% endif %}><a href="/">Home</a></li>
             {% for text, url in [
                 ('Overview', 'overview.html'),
-                ('Members', 'members.html'), 
-                ('Results', 'results.html'), 
+                ('Members', 'members.html'),
+                ('Events', 'events.html'), 
+                ('Results', 'results.html'),
               ] -%}
-              <li{% if page == url %} class="active"{% endif %}><a href="{{ url|relative }}">{{ text }}</a></li>  
+              <li{% if page == url %} class="active"{% endif %}><a href="{{ url|relative }}">{{ text }}</a></li>
             {% endfor %}
-          </ul>       
+          </ul>
         </div>
       </div>
     </div>
