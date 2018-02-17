@@ -1,3 +1,8 @@
+- title: An Empirical Analysis of Technical Lag in npm Package Dependencies
+  authors: A. Zerouali, E. Constantinou, T. Mens, G. Robles, J. Gonzalez-Barahona
+  kind: Paper
+  year: 2018
+  published: International Conference on Software Reuse, Madrid, Spain
 - title: An empirical comparison of dependency network evolution in seven software packaging ecosystems
   authors: A. Decan and T. Mens and Ph. Grosjean
   kind: Journal
