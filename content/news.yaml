@@ -33,7 +33,22 @@
   summary: |
     Eleni Constantinou presented her ongoing research on the issues with identity merging in socio-technical software development data.
   content: |
-    <p>This work was carried out in collaboration Tom Mens, Gregorio Robles and Jesus Gonzalez-Barahona.
-    The work has been submitted for publication.
+    <p>See <a href="http://grimoirelab.github.io/con/">CHAOSSCON + GRIMOIRECON EUROPE 2018</a> website.<br/>
+    This work was carried out in collaboration Tom Mens, Gregorio Robles and Jesus Gonzalez-Barahona and has been submitted for publication.
     </p>
-
+- title: Publication in Empirical Software Engineering journal
+  date: 2018-02-10
+  summary: |
+    Alexandre Decan and Tom Mens published the article "An empirical comparison of dependency network evolution in seven software packaging ecosystems"
+    in the Empirical Software Engineering journal
+  content: |
+    <p>
+    To access full-text of the article on <a href="http://rdcu.be/GIkv">SharedIt</a>
+    </p>
+- title: CHAOSS Google Summer of Code 2018
+  date: 2018-02-13
+  summary: |
+    Josianne Marsan will be mentor for GSoC2018 for the "CHAOSS: Community Health Analytics Open Source Software" with Matt Germonprez and Jordi Cabot.
+  content: |
+    <p>Here are some of the <a href="https://wiki.linuxfoundation.org/chaoss/gsoc-ideas">GSoC ideas</a>.
+    </p>
