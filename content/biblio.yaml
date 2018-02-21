@@ -1,3 +1,9 @@
+- title: Towards an interdisciplinary, socio-technical analysis of software ecosystem health
+  authors: T. Mens, B. Adams and J. Marsan
+  kind: Paper
+  year: 2018
+  published: CEUR Workshop Proceedings, Volume 2047, Proceedings of the 16th edition of the BElgian-NEtherlands software eVOLution symposium
+  link: http://ceur-ws.org/Vol-2047/BENEVOL_2017_paper_2.pdf
 - title: An Empirical Analysis of Technical Lag in npm Package Dependencies
   authors: A. Zerouali, E. Constantinou, T. Mens, G. Robles, J. Gonzalez-Barahona
   kind: Paper
