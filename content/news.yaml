@@ -52,3 +52,9 @@
   content: |
     <p>Here are some of the <a href="https://wiki.linuxfoundation.org/chaoss/gsoc-ideas">GSoC ideas</a>.
     </p>
+- title: Presentation of SECOHealth at FNRS Science Club
+  date: 2018-02-22
+  summary: |
+    Tom Mens, coordinator of the Excellence of Science Project SECO-ASSIST
+    presented the project goals at FNRS for the <a href="abjsc.be">Association belge des journalistes scientifiques</a>.
+    The slides are available on <a href="https://www.slideshare.net/tommens/la-sant-des-cosystmes-des-logiciels-open-source">SlideShare</a>.
