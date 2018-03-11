@@ -1,20 +1,3 @@
-- title: La sant&eacute; des &eacute;cosyst&egrave;mes des logiciels open source
-  authors: T. Mens
-  kind: Presentation
-  year: 2018
-  published: FNRS Science Club, 22 February 2018
-  link: https://www.slideshare.net/tommens/la-sant-des-cosystmes-des-logiciels-open-source
-- title: Towards an interdisciplinary, socio-technical analysis of software ecosystem health
-  authors: T. Mens, B. Adams and J. Marsan
-  kind: Paper
-  year: 2018
-  published: CEUR Workshop Proceedings, Volume 2047, Proceedings of the 16th edition of the BElgian-NEtherlands software eVOLution symposium
-  link: http://ceur-ws.org/Vol-2047/BENEVOL_2017_paper_2.pdf
-- title: An Empirical Analysis of Technical Lag in npm Package Dependencies
-  authors: A. Zerouali, E. Constantinou, T. Mens, G. Robles, J. Gonzalez-Barahona
-  kind: Paper
-  year: 2018
-  published: International Conference on Software Reuse, Madrid, Spain
 - title: An empirical comparison of dependency network evolution in seven software packaging ecosystems
   authors: A. Decan and T. Mens and Ph. Grosjean
   kind: Journal
@@ -22,6 +5,23 @@
   published: Empirical Software Engingeering, Springer
   link: http://rdcu.be/GIkv
   link2: https://doi.org/10.1007/s10664-017-9589-y
+- title: Towards an interdisciplinary, socio-technical analysis of software ecosystem health
+  authors: T. Mens, B. Adams and J. Marsan
+  kind: Article
+  year: 2018
+  published: CEUR Workshop Proceedings, Volume 2047, Proceedings of the 16th edition of the BElgian-NEtherlands software eVOLution symposium
+  link: http://ceur-ws.org/Vol-2047/BENEVOL_2017_paper_2.pdf
+- title: An Empirical Analysis of Technical Lag in npm Package Dependencies
+  authors: A. Zerouali, E. Constantinou, T. Mens, G. Robles, J. Gonzalez-Barahona
+  kind: Article
+  year: 2018
+  published: International Conference on Software Reuse, Madrid, Spain
+- title: La sant&eacute; des &eacute;cosyst&egrave;mes des logiciels open source
+  authors: T. Mens
+  kind: Presentation
+  year: 2018
+  published: FNRS Science Club, 22 February 2018
+  link: https://www.slideshare.net/tommens/la-sant-des-cosystmes-des-logiciels-open-source
 - title: An Empirical Comparison of Developer Retention in the RubyGems and npm Software Ecosystems
   authors: E. Constantinou and T. Mens
   kind: Journal
@@ -30,7 +30,7 @@
   link: https://doi.org/10.1007/s11334-017-0303-4
 - title: Exploring the biosphere – Towards a conceptualization of peer production communities as living organisms
   authors: K. Carillo, J. Marsan and B. Negoita
-  kind: Paper
+  kind: Article
   year: 2017
   published: SIGOPEN Pre-ICIS 2017 Workshop on Open Phenomena, Association for Information Systems (AIS), Seoul, South Korea, December 9, 2017
 - title: Towards an interdisciplinary, socio-technical methodology and analysis of software ecosystem health
