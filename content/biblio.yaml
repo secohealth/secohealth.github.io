@@ -16,6 +16,11 @@
   kind: Article
   year: 2018
   published: International Conference on Software Reuse, Madrid, Spain
+- title: On the impact of security vulnerabilities in the npm package dependency network
+  authors: A. Decan, T. Mens and E. Constantinou
+  kind: Article
+  year: 2018
+  published: International Conference on Mining Software Repositories, Gothenburg, Sweden
 - title: La sant&eacute; des &eacute;cosyst&egrave;mes des logiciels open source
   authors: T. Mens
   kind: Presentation
