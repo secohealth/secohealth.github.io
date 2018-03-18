@@ -20,15 +20,15 @@
 - title: Publication in SIGOPEN 2017 Developmental Workshop for Research on Open Phenomena
   date: 2018-01-08
   summary: |
-    Josianne Marsan has presented a scientific article under the SECOHealth project at the SIGOPEN 2017 Developmental Workshop for Research on Open Phenomena, collocated with the prestigious International Conference on Information Systems (ICIS) 2017 in Seoul, Korea, on December 9th, 2017. 
+    Josianne Marsan has presented a scientific article under the SECOHealth project at the SIGOPEN 2017 Developmental Workshop for Research on Open Phenomena, collocated with the prestigious International Conference on Information Systems (ICIS) 2017 in Seoul, Korea, on December 9th, 2017.
   content: |
     <p>
     Kevin Carillo and Bogdan Negoita are also authors of this article entitled "Exploring the biosphere-Towards a conceptualization of peer production communities as living organisms". This work is part of the theoretical and conceptual basis for the SECOHealth project.
     </p>
     <br/>
-    To access full-text of the article: 
+    To access full-text of the article:
     <a href="https://www.researchgate.net/publication/321905241_Exploring_the_biosphere-Towards_a_conceptualization_of_peer_production_communities_as_living_organisms">https://www.researchgate.net/publication/321905241_Exploring_the_biosphere-Towards_a_conceptualization_of_peer_production_communities_as_living_organisms</a>
-- title: Presentation at CHAOSSCON + GRIMOIRECON EUROPE 2018 
+- title: Presentation at CHAOSSCON + GRIMOIRECON EUROPE 2018
   date: 2018-02-02
   summary: |
     Eleni Constantinou presented her ongoing research on the issues with identity merging in socio-technical software development data.
@@ -64,3 +64,8 @@
     <p><a href="http://dailyscience.be/12/03/2018/comment-va-la-sante-de-votre-ecosysteme-logiciel/">Comment va la sant&eacute; de votre &eacute;cosyst&egrave;me logiciel?</a></p>
     <p>Christian Dubrulle, journaliste, pr&eacute;sente les travaux de recherche du Prof. Tom Mens (UMONS) et ses coll&egrave;gues
     en Belgique et au Qu&eacute;bec autour des &eacute;cosyst&egrave;mes logiciels dans le cadre des projets de recherche SECOHealth et SECO-ASSIST.</p>
+- title: Presentation of SECOHealth and SECO-ASSIST at TU Delft
+  date: 2018-03-14
+  summary: |
+    Eleni Constantinou and Tom Mens presented the project goals and results at a presentation given at the Delft University of Technology (TU Delft).
+    The slides are available on <a href="https://www.slideshare.net/econst/automatic-link-extraction-the-good-the-bad-and-the-ugly-in-software-ecosystem-mining">SlideShare</a>.
