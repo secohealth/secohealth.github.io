@@ -1,3 +1,9 @@
+- title: Big Data Analytics of Software Ecosystem Health
+  authors: T. Mens
+  kind: Presentation
+  year: 2018
+  published: INFORTECH Scientific Day, UMONS, 23 May 2018
+  link: https://www.slideshare.net/tommens/software-ecosystems-big-data
 - title: Comment va la sant&eacute;... de votre &eacute;cosyst&egrave;me logiciel?
   authors: Christian Du Brulle
   kind: Popular Press
@@ -22,6 +28,7 @@
   kind: Article
   year: 2018
   published: International Conference on Software Reuse, Madrid, Spain
+  link: https://doi.org/10.1007/978-3-319-90421-4_6
 - title: On the impact of security vulnerabilities in the npm package dependency network
   authors: A. Decan, T. Mens and E. Constantinou
   kind: Article
