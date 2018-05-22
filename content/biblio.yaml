@@ -1,15 +1,3 @@
-- title: Big Data Analytics of Software Ecosystem Health
-  authors: T. Mens
-  kind: Presentation
-  year: 2018
-  published: INFORTECH Scientific Day, UMONS, 23 May 2018
-  link: https://www.slideshare.net/tommens/software-ecosystems-big-data
-- title: Comment va la sant&eacute;... de votre &eacute;cosyst&egrave;me logiciel?
-  authors: Christian Du Brulle
-  kind: Popular Press
-  year: 2018
-  published: Daily Science, 12 March 2018 (http://dailyscience.be)
-  link: http://dailyscience.be/12/03/2018/comment-va-la-sante-de-votre-ecosysteme-logiciel/
 - title: An empirical comparison of dependency network evolution in seven software packaging ecosystems
   authors: A. Decan and T. Mens and Ph. Grosjean
   kind: Journal
@@ -34,6 +22,18 @@
   kind: Article
   year: 2018
   published: International Conference on Mining Software Repositories, Gothenburg, Sweden
+- title: Comment va la sant&eacute;... de votre &eacute;cosyst&egrave;me logiciel?
+  authors: Christian Du Brulle
+  kind: Popular Press
+  year: 2018
+  published: Daily Science, 12 March 2018 (http://dailyscience.be)
+  link: http://dailyscience.be/12/03/2018/comment-va-la-sante-de-votre-ecosysteme-logiciel/
+- title: Big Data Analytics of Software Ecosystem Health
+  authors: T. Mens
+  kind: Presentation
+  year: 2018
+  published: INFORTECH Scientific Day, UMONS, 23 May 2018
+  link: https://www.slideshare.net/tommens/software-ecosystems-big-data
 - title: La sant&eacute; des &eacute;cosyst&egrave;mes des logiciels open source
   authors: T. Mens
   kind: Presentation
