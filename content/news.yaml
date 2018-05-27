@@ -1,12 +1,11 @@
 - title: 1st International Workshop on Software Health (SoHeal 2018)
   date: 2018-05-27
   summary: |
-    We organised the SoHeal 2018 workshop co-located with the International
-    Conference on Software Engineering in Gothenburg, Sweden. In collaboration
-    with the Linux Foundation CHAOSS project on community health. Invited keynote
-    by Kate Stewart,Senior Director of Strategic Programs at the Linux Foundation.
-  content: |  
-    <p>h<a href="https://soheal.github.io">https://soheal.github.io</a></p>  
+    We organised the SoHeal 2018 workshop (<a href="https://soheal.github.io">https://soheal.github.io</a>)
+    co-located with the International Conference on Software Engineering (ICSE)
+    in Gothenburg, Sweden. In collaboration with the Linux Foundation CHAOSS project
+    on community health. Invited keynote by Kate Stewart, Senior Director of
+    Strategic Programs at the Linux Foundation.
 - title: InforTech Scientific Day 2018
   date: 2018-05-23
   summary: |
