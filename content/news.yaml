@@ -1,11 +1,17 @@
 - title: 1st International Workshop on Software Health (SoHeal 2018)
   date: 2018-05-27
   summary: |
-    <p>We organised the SoHeal 2018 workshop co-located with the International
+    We organised the SoHeal 2018 workshop co-located with the International
     Conference on Software Engineering in Gothenburg, Sweden. In collaboration
     with the Linux Foundation CHAOSS project on community health. Invited keynote
-    by Kate Stewart,Senior Director of Strategic Programs at the Linux Foundation.</p>
-    <p>h<a href="https://soheal.github.io">https://soheal.github.io</a></p>    
+    by Kate Stewart,Senior Director of Strategic Programs at the Linux Foundation.
+  content: |  
+    <p>h<a href="https://soheal.github.io">https://soheal.github.io</a></p>  
+- title: InforTech Scientific Day 2018
+  date: 2018-05-23
+  summary: |
+    Tom Mens presented "Big Data Analytics of Software Ecosystem Health" at the
+    Scientific Meeting of the InforTech research institute of the University of Mons.
 - title: Inaugural event of SECOHealth in Montréal
   date: 2017-09-18
   summary: |
