@@ -22,6 +22,12 @@
   kind: Article
   year: 2018
   published: International Conference on Mining Software Repositories, Gothenburg, Sweden
+  link: http://applications.umons.ac.be/docnum/c7b423fd-d183-486c-9cec-966066b9b364/C9345D51-B92C-4551-BF50-1FA8CF0A6691/paper.pdf
+- title: On the evolution of technical lag in the npm package dependency network
+  authors: A. Decan, T. Mens and E. Constantinou
+  kind: Article
+  year: 2018
+  published: 34th IEEE International Conference on Software Maintenance and Evolution (ICSME), Madrid, Spain, 2018
 - title: Comment va la sant&eacute;... de votre &eacute;cosyst&egrave;me logiciel?
   authors: Christian Du Brulle
   kind: Popular Press
