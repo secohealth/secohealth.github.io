@@ -5,6 +5,12 @@
   published: Empirical Software Engingeering, Springer
   link: http://rdcu.be/GIkv
   link2: https://doi.org/10.1007/s10664-017-9589-y
+- title: "Towards solving social and technical problems in open source software ecosystems: Using cause-and-effect analysis to disentangle the causes of complex problems"
+  authors: J. Marsan, M. Templier, P. Marois, B. Adams, K. Carillo and G. Mopenza
+  kind: Journal
+  year: 2018
+  published: "IEEE Software"
+  link: https://ieeexplore.ieee.org/document/8491285
 - title: Towards an interdisciplinary, socio-technical analysis of software ecosystem health
   authors: T. Mens, B. Adams and J. Marsan
   kind: Article
