@@ -6,36 +6,36 @@
   link: http://rdcu.be/GIkv
   link2: https://doi.org/10.1007/s10664-017-9589-y
 - title: "Towards solving social and technical problems in open source software ecosystems: Using cause-and-effect analysis to disentangle the causes of complex problems"
-  authors: J. Marsan, M. Templier, P. Marois, B. Adams, K. Carillo and G. Mopenza
+  authors: Josianne Marsan, Mathieu Templier, Patrick Marois, Bram Adams, Kevin Carillo and G. Mopenza
   kind: Journal
   year: 2018
   published: "IEEE Software"
   link: https://ieeexplore.ieee.org/document/8491285
 - title: Towards an interdisciplinary, socio-technical analysis of software ecosystem health
-  authors: T. Mens, B. Adams and J. Marsan
+  authors: Tom Mens, Bram Adams and Josianne Marsan
   kind: Article
   year: 2018
   published: CEUR Workshop Proceedings, Volume 2047, Proceedings of the 16th edition of the BElgian-NEtherlands software eVOLution symposium
   link: http://ceur-ws.org/Vol-2047/BENEVOL_2017_paper_2.pdf
 - title: An Empirical Analysis of Technical Lag in npm Package Dependencies
-  authors: A. Zerouali, E. Constantinou, T. Mens, G. Robles, J. Gonzalez-Barahona
+  authors: Ahmed Zerouali, Eleni Constantinou, Tom Mens, GregorioRobles, Jesus Gonzalez-Barahona
   kind: Article
   year: 2018
   published: International Conference on Software Reuse, Madrid, Spain
   link: https://doi.org/10.1007/978-3-319-90421-4_6
 - title: On the impact of security vulnerabilities in the npm package dependency network
-  authors: A. Decan, T. Mens and E. Constantinou
+  authors: Alexandre Decan, Tom Mens and Eleni Constantinou
   kind: Article
   year: 2018
   published: International Conference on Mining Software Repositories, Gothenburg, Sweden
   link: http://applications.umons.ac.be/docnum/c7b423fd-d183-486c-9cec-966066b9b364/C9345D51-B92C-4551-BF50-1FA8CF0A6691/paper.pdf
 - title: On the evolution of technical lag in the npm package dependency network
-  authors: A. Decan, T. Mens and E. Constantinou
+  authors: Alexandre Decan, Tom Mens and Eleni Constantinou
   kind: Article
   year: 2018
   published: 34th IEEE International Conference on Software Maintenance and Evolution (ICSME), Madrid, Spain, 2018
 - title: "La santé des écosystèmes logiciels ouverts : Une enquête qualitative auprès d'experts"
-  authors: P. Marois, G. Mopenza, J. Marsan and M. Templier
+  authors: Patrick Marois, G. Mopenza, Josianne Marsan and Mathieu Templier
   kind: Article
   year: 2018
   published: Proceedings of the 23th Association Information & Management (AIM) Conference
@@ -47,61 +47,67 @@
   year: 2018
   published: Daily Science, 12 March 2018 (http://dailyscience.be)
   link: http://dailyscience.be/12/03/2018/comment-va-la-sante-de-votre-ecosysteme-logiciel/
+- title: On the health of the npm packaging ecosystem
+  authors: Tom Mens
+  kind: Presentation
+  year: 2018
+  published: Drupal Camp Belium (https://drupalcamp.be/en/drupalcamp-ghent-2018/session/health-npm-package-ecosystem-and-its-potential-impact-drupal)
+  link: https://www.slideshare.net/tommens/on-the-health-of-the-npm-packaging-ecosystem
 - title: Big Data Analytics of Software Ecosystem Health
-  authors: T. Mens
+  authors: Tom Mens
   kind: Presentation
   year: 2018
   published: INFORTECH Scientific Day, UMONS, 23 May 2018
   link: https://www.slideshare.net/tommens/software-ecosystems-big-data
 - title: La sant&eacute; des &eacute;cosyst&egrave;mes des logiciels open source
-  authors: T. Mens
+  authors: Tom Mens
   kind: Presentation
   year: 2018
   published: FNRS Science Club, 22 February 2018
   link: https://www.slideshare.net/tommens/la-sant-des-cosystmes-des-logiciels-open-source
 - title: "La santé des écosystèmes logiciels ouverts : Une enquête qualitative auprès d'experts"
-  authors: P. Marois
+  authors: Patrick Marois
   kind: Presentation
   year: 2018
   published: 23th Association Information & Management (AIM) Conference (Montreal, Canada), 18 May 2018
 - title: An Empirical Comparison of Developer Retention in the RubyGems and npm Software Ecosystems
-  authors: E. Constantinou and T. Mens
+  authors: Eleni Constantinou and Tom Mens
   kind: Journal
   year: 2017
   published: Innovations in Systems and Software Engineering, 13(2), pp. 101-115
   link: https://doi.org/10.1007/s11334-017-0303-4
 - title: Exploring the biosphere – Towards a conceptualization of peer production communities as living organisms
-  authors: K. Carillo, J. Marsan and B. Negoita
+  authors: Kevin Carillo, Josianne Marsan and B. Negoita
   kind: Article
   year: 2017
   published: SIGOPEN Pre-ICIS 2017 Workshop on Open Phenomena, Association for Information Systems (AIS), Seoul, South Korea, December 9, 2017
 - title: Towards an interdisciplinary, socio-technical methodology and analysis of software ecosystem health
-  authors: B. Adams
+  authors: Bram Adams
   kind: Presentation
   year: 2017
   published: Inaugural event of 4 joint interdisciplinary research projects between Québec and Wallonia
   link: https://www.slideshare.net/BramAdams5/what-is-secohealth-about
 - title: Socio-Technical Empirical Comparison of Software Package Ecosystems
-  authors: T. Mens
+  authors: Tom Mens
   kind: Presentation
   year: 2017
   published: "MADSESE: Madrilenian Seminar on Empirical Software Engineering (URJC, Madrid)"
   link: https://www.slideshare.net/tommens/sociotechnical-empirical-comparison-of-software-package-ecosystems
 - title: Investigating developer retention in socio-technical software ecosystems
-  authors: E. Constantinou
+  authors: Eleni Constantinou
   kind: Presentation
   year: 2017
   published: "MADSESE: Madrilenian Seminar on Empirical Software Engineering (URJC, Madrid)"
   link: https://www.slideshare.net/econst/investigating-developer-retention-in-sociotechnical-software-ecosystems
 - title: Towards an interdisciplinary, socio-technical analysis of software ecosystem health
-  authors: T. Mens, B. Adams and J. Marsan
+  authors: Tom Mens, Bram Adams and Josianne Marsan
   kind: Presentation
   year: 2017
   published: "BENEVOL: BElgian-NEtherlands software eVOLution symposium (Antwerp)"
   link: https://www.slideshare.net/tommens/sociotechnical-analysis-of-software-ecosystem-health
   link2: https://arxiv.org/abs/1711.04532
 - title: "Automatic link extraction: The good, the bad and the ugly in software ecosystem mining"
-  authors: E. Constantinou and T. Mens
+  authors: Eleni Constantinou and Tom Mens
   kind: Presentation
   year: 2017
   published: "BENEVOL: BElgian-NEtherlands software eVOLution symposium (Antwerp)"
