@@ -51,8 +51,9 @@
   authors: Tom Mens
   kind: Presentation
   year: 2018
-  published: Drupal Camp Belium (https://drupalcamp.be/en/drupalcamp-ghent-2018/session/health-npm-package-ecosystem-and-its-potential-impact-drupal)
+  published: Drupal Camp Belgium
   link: https://www.slideshare.net/tommens/on-the-health-of-the-npm-packaging-ecosystem
+  link2: https://drupalcamp.be/en/drupalcamp-ghent-2018/session/health-npm-package-ecosystem-and-its-potential-impact-drupal
 - title: Big Data Analytics of Software Ecosystem Health
   authors: Tom Mens
   kind: Presentation
