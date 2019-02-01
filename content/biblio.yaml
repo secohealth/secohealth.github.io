@@ -1,4 +1,10 @@
-- title: The Social Developer - The Future of Software Development (Guest Editorial)
+- title: "Software Ecosystem Health lightning talk"
+  authors: Tom Mens
+  kind: Presentation
+  year: 2019
+  published: CHAOSSCon Europe, 1 February 2019, Brussels, Belgium
+  link: https://www.slideshare.net/tommens/software-ecosystem-health-lightning-talk
+- title: "The Social Developer - The Future of Software Development (Guest Editorial)"
   authors: Tom Mens, Marcelo Cataldo, Daniela Damian
   kind: Journal
   year: 2019
@@ -10,32 +16,32 @@
   year: 2019
   published: IEEE Software, IEEE Computer Society
   link: https://ieeexplore.ieee.org/document/8491285
-- title: An empirical comparison of dependency network evolution in seven software packaging ecosystems
+- title: "An empirical comparison of dependency network evolution in seven software packaging ecosystems"
   authors: A. Decan and T. Mens and Ph. Grosjean
   kind: Journal
   year: 2018
   published: Empirical Software Engingeering, Springer
   link: http://rdcu.be/GIkv
   link2: https://doi.org/10.1007/s10664-017-9589-y
-- title: Towards an interdisciplinary, socio-technical analysis of software ecosystem health
+- title: "Towards an interdisciplinary, socio-technical analysis of software ecosystem health"
   authors: Tom Mens, Bram Adams and Josianne Marsan
   kind: Article
   year: 2018
   published: CEUR Workshop Proceedings, Volume 2047, Proceedings of the 16th edition of the BElgian-NEtherlands software eVOLution symposium
   link: http://ceur-ws.org/Vol-2047/BENEVOL_2017_paper_2.pdf
-- title: An Empirical Analysis of Technical Lag in npm Package Dependencies
-  authors: Ahmed Zerouali, Eleni Constantinou, Tom Mens, GregorioRobles, Jesus Gonzalez-Barahona
+- title: "An Empirical Analysis of Technical Lag in npm Package Dependencies"
+  authors: Ahmed Zerouali, Eleni Constantinou, Tom Mens, Gregorio Robles, Jesus Gonzalez-Barahona
   kind: Article
   year: 2018
   published: International Conference on Software Reuse, Madrid, Spain
   link: https://doi.org/10.1007/978-3-319-90421-4_6
-- title: On the impact of security vulnerabilities in the npm package dependency network
+- title: "On the impact of security vulnerabilities in the npm package dependency network"
   authors: Alexandre Decan, Tom Mens and Eleni Constantinou
   kind: Article
   year: 2018
   published: International Conference on Mining Software Repositories, Gothenburg, Sweden
   link: http://applications.umons.ac.be/docnum/c7b423fd-d183-486c-9cec-966066b9b364/C9345D51-B92C-4551-BF50-1FA8CF0A6691/paper.pdf
-- title: On the evolution of technical lag in the npm package dependency network
+- title: "On the evolution of technical lag in the npm package dependency network"
   authors: Alexandre Decan, Tom Mens and Eleni Constantinou
   kind: Article
   year: 2018
@@ -47,26 +53,26 @@
   published: Proceedings of the 23th Association Information & Management (AIM) Conference
   link: http://aim.asso.fr/fr/publications/actes-conferences/theme-42-aim-2018
   link2: https://secohealth.github.io/assets/AIM2018_Marois_Mopenza_Marsan_Templier.pdf
-- title: Comment va la sant&eacute;... de votre &eacute;cosyst&egrave;me logiciel?
+- title: "Comment va la sant&eacute;... de votre &eacute;cosyst&egrave;me logiciel?"
   authors: Christian Du Brulle
   kind: Popular Press
   year: 2018
   published: Daily Science, 12 March 2018 (http://dailyscience.be)
   link: http://dailyscience.be/12/03/2018/comment-va-la-sante-de-votre-ecosysteme-logiciel/
-- title: On the health of the npm packaging ecosystem
+- title: "On the health of the npm packaging ecosystem"
   authors: Tom Mens
   kind: Presentation
   year: 2018
   published: Drupal Camp Belgium
   link: https://www.slideshare.net/tommens/on-the-health-of-the-npm-packaging-ecosystem
   link2: https://drupalcamp.be/en/drupalcamp-ghent-2018/session/health-npm-package-ecosystem-and-its-potential-impact-drupal
-- title: Big Data Analytics of Software Ecosystem Health
+- title: "Big Data Analytics of Software Ecosystem Health"
   authors: Tom Mens
   kind: Presentation
   year: 2018
   published: INFORTECH Scientific Day, UMONS, 23 May 2018
   link: https://www.slideshare.net/tommens/software-ecosystems-big-data
-- title: La sant&eacute; des &eacute;cosyst&egrave;mes des logiciels open source
+- title: "La sant&eacute; des &eacute;cosyst&egrave;mes des logiciels open source"
   authors: Tom Mens
   kind: Presentation
   year: 2018
@@ -77,36 +83,36 @@
   kind: Presentation
   year: 2018
   published: 23th Association Information & Management (AIM) Conference (Montreal, Canada), 18 May 2018
-- title: An Empirical Comparison of Developer Retention in the RubyGems and npm Software Ecosystems
+- title: "An Empirical Comparison of Developer Retention in the RubyGems and npm Software Ecosystems"
   authors: Eleni Constantinou and Tom Mens
   kind: Journal
   year: 2017
   published: Innovations in Systems and Software Engineering, 13(2), pp. 101-115
   link: https://doi.org/10.1007/s11334-017-0303-4
-- title: Exploring the biosphere – Towards a conceptualization of peer production communities as living organisms
+- title: "Exploring the biosphere – Towards a conceptualization of peer production communities as living organisms"
   authors: Kevin Carillo, Josianne Marsan and B. Negoita
   kind: Article
   year: 2017
   published: SIGOPEN Pre-ICIS 2017 Workshop on Open Phenomena, Association for Information Systems (AIS), Seoul, South Korea, December 9, 2017
-- title: Towards an interdisciplinary, socio-technical methodology and analysis of software ecosystem health
+- title: "Towards an interdisciplinary, socio-technical methodology and analysis of software ecosystem health"
   authors: Bram Adams
   kind: Presentation
   year: 2017
   published: Inaugural event of 4 joint interdisciplinary research projects between Québec and Wallonia
   link: https://www.slideshare.net/BramAdams5/what-is-secohealth-about
-- title: Socio-Technical Empirical Comparison of Software Package Ecosystems
+- title: "Socio-Technical Empirical Comparison of Software Package Ecosystems"
   authors: Tom Mens
   kind: Presentation
   year: 2017
   published: "MADSESE: Madrilenian Seminar on Empirical Software Engineering (URJC, Madrid)"
   link: https://www.slideshare.net/tommens/sociotechnical-empirical-comparison-of-software-package-ecosystems
-- title: Investigating developer retention in socio-technical software ecosystems
+- title: "Investigating developer retention in socio-technical software ecosystems"
   authors: Eleni Constantinou
   kind: Presentation
   year: 2017
   published: "MADSESE: Madrilenian Seminar on Empirical Software Engineering (URJC, Madrid)"
   link: https://www.slideshare.net/econst/investigating-developer-retention-in-sociotechnical-software-ecosystems
-- title: Towards an interdisciplinary, socio-technical analysis of software ecosystem health
+- title: "Towards an interdisciplinary, socio-technical analysis of software ecosystem health"
   authors: Tom Mens, Bram Adams and Josianne Marsan
   kind: Presentation
   year: 2017
