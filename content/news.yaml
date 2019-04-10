@@ -1,4 +1,4 @@
-- title: 2nd International Workshopn on Software Health (SoHeal 2019)
+- title: 2nd International Workshop on Software Health (SoHeal 2019)
   date: 2019-05-28
   summary: |
     We organised the SoHeal 2019 workshop (<a href="https://soheal.github.io">https://soheal.github.io</a>)
@@ -9,7 +9,7 @@
 - title: IEEE Software Special Issue - The Social Developer
   date: 2019-01-01
   summary: | 
-    We participated as co-editor and authors in an <a href="https://t.co/PhkjegJIWT">IEEE Software special issue</a> targeting the
+    Tom Mens co-edited an <a href="https://t.co/PhkjegJIWT">IEEE Software special issue</a> targeting the
     social aspects of software development.   
   content: |
     Contemporary Software Engineering has inevitably become much more social. Due to the size,
@@ -22,6 +22,12 @@
     customers, and business partners. This theme issue aims to inform software engineering practitioners
     about current trends and recent advances in research and practice of sociotechnical analysis and support
     for large-scale software development.
+- title: Publication in IEEE Software
+  date: 2019-01-01
+  summary: |
+    J. Marsan, M. Templier, P. Marois, B. Adams, K. Carillo, G. L. Mopenza, co-authored an article
+    <a href="https://doi.ieeecomputersociety.org/10.1109/MS.2018.2874323">Toward Solving Social and Technical Problems in Open Source Software Ecosystems: Using Cause-and-Effect Analysis to Disentangle the Causes of Complex Problems</a>
+    in IEEE Software.
 - title: La santé des écosystèmes logiciels ouverts
   date: 2018-06-28
   summary:
