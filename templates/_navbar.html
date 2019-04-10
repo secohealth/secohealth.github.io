@@ -19,6 +19,7 @@
           <ul class="nav navbar-nav navbar-right">
             <li{% if page == 'index.html' %} class="active"{% endif %}><a href="/">Home</a></li>
             {% for text, url in [
+                ('News', 'news.html'),
                 ('Overview', 'overview.html'),
                 ('Members', 'members.html'),
                 ('Events', 'events.html'), 
