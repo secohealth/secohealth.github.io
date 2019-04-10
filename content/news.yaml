@@ -28,6 +28,11 @@
     J. Marsan, M. Templier, P. Marois, B. Adams, K. Carillo, G. L. Mopenza, co-authored an article
     <a href="https://doi.ieeecomputersociety.org/10.1109/MS.2018.2874323">Toward Solving Social and Technical Problems in Open Source Software Ecosystems: Using Cause-and-Effect Analysis to Disentangle the Causes of Complex Problems</a>
     in IEEE Software.
+- title: Presentation about software health at DrupalCamp Belgium
+  date: 2018-11-24
+  summary: |
+    Tom Mens presented <a href="https://www.slideshare.net/tommens/on-the-health-of-the-npm-packaging-ecosystem">"On the health of the npm packaging ecosystem"</a>
+    at <a href="https://drupalcamp.be">DrupalCamp Belgium</a> 2018.
 - title: La santé des écosystèmes logiciels ouverts
   date: 2018-06-28
   summary:
