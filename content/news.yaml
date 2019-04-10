@@ -6,6 +6,11 @@
     in Montreal, Canada. In collaboration with the Linux Foundation CHAOSS project
     on community health. Invited keynote "Can software be healthy?" by Jesus Gonzalez-Barahona,
     LibreSoft Research Group, Universidad Rey Juan Carlos, Madrid.
+- title: Presentation on <a href="https://www.slideshare.net/tommens/how-to-increase-the-technical-health-of-your-software">how to increase the technical health of your software</a>
+  date: 2019-02-19
+  summary: |
+    Tom Mens presented the relation between technical debt and technical health of software
+    at the Business and Technology Club of the <a href="http://clusters.wallonie.be/infopole-fr/">Infopole Cluster TIC</a> in Gosselies (Belgium).
 - title: IEEE Software Special Issue - The Social Developer
   date: 2019-01-01
   summary: | 
