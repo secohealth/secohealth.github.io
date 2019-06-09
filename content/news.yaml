@@ -1,3 +1,8 @@
+- title: SECOHealth consortium meeting
+  date: 2019-05-28
+  summary:
+    The partners of the SECOHealth project gathered in Canada during the International Software Health workshop (<a href="https://soheal.github.io">SoHeal 2019</a>).
+  content: '<img src="assets/event_pics/Secohealth2019team.jpeg" style="max-width: 100%"/>'
 - title: "Corporate involvement in Open Source Software ecosystems: challenges and strategies to sustain ecosystem health"
   date: 2019-05-28
   summary: |
@@ -23,9 +28,9 @@
     at the Business and Technology Club of the <a href="http://clusters.wallonie.be/infopole-fr/">Infopole Cluster TIC</a> in Gosselies (Belgium).
 - title: IEEE Software Special Issue - The Social Developer
   date: 2019-01-01
-  summary: | 
+  summary: |
     Tom Mens co-edited an <a href="https://t.co/PhkjegJIWT">IEEE Software special issue</a> targeting the
-    social aspects of software development.   
+    social aspects of software development.
   content: |
     Contemporary Software Engineering has inevitably become much more social. Due to the size,
     complexity, and diversity of today's software systems, there is a need to interact across
