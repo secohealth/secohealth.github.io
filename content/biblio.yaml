@@ -1,9 +1,15 @@
+- title: "Research results presentation"
+  authors: Tom Mens, Josianne Marsan
+  kind: Research results
+  year: 2019
+  published: Rencontre FRQ & F.R.S.-FNRS, Brussels, Belgium
+  link: https://www.slideshare.net/tommens/secohealth-2019-research-achievements
 - title: "On the abandonment and survival of open source projects: An empirical investigation"
   authors: Guilherme Avelino, Eleni Constantinou, Marco Tulio Valente, Alexander Serebrenik
   kind: Article
   year: 2019
   published: International Symposium on Empirical Software Engineering and Measurement, Porto de Galinhas, Brazil
-  link: 
+  link:
 - title: "Empirically Analysing the Socio-Technical Health of Software Package Managers"
   published: Invited Talk at Concordia University, 24 May 2019, Montreal, Canada
   authors: Tom Mens, Eleni Constantinou
