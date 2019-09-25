@@ -1,0 +1,47 @@
+/* LAYOUT */
+#content {
+  margin-top: 5em;
+  margin-bottom: 2em;
+}
+
+footer {
+  color: gray;
+  padding: 1em 0em 1em 0em;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.navbar-brand img {
+  margin-top: -1em;
+  width: auto;
+  height: 90px;
+  float: left;
+}
+
+.member-picture {
+  max-width: 8em;
+  max-height: 8em;
+}
+
+.member-picture.pull-left {
+  margin-right: 1em;
+}
+
+.member-logo {
+  max-width: 10em;
+  max-height: 5em;
+}
+
+/* TYPOGRAPHY */
+.brand-blue { color: #0A189C; }
+.brand-red { color: #BF0014;  }
+
+p { 
+  text-align: justify;
+}
+
+.invisible {
+  visibility: hidden;
+}
